@@ -2,96 +2,157 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Maria Sigridur Finnsdottir
     - name: Languages
-      value: English, German
+      value: English, French, Icelandic
+
+- title: Current Position
+  type: time_table
+  contents:
+    - title: Humanities and Social Sciences Specialist
+      institution: Digital Research Services-IST, University of Alberta
+      year: May 2025 - Ongoing
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Sociology
+      institution: University of Toronto
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Dissertation title - "Radical women? Investigating gender disparities and women’s representation on the European radical right."
+    - title: M.A. in Sociology
+      institution: University of Toronto
+      year: 2018
+    - title: B.A. with Honours and Distinction in Sociology
+      institution: University of Victoria
+      year: 2016
+    - title: Certificate of French Language and Culture Proficiency
+      institution: University of Victoria
+      year: 2016
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Graduate Student Editorial Assistant
+      institution: Canadian Review of Sociology
+      year: June 2023 - June 2025
+    - title: Post-Doctoral Fellow, Borders in Globalization
+      institution: Centre for Global Studies, University of Victoria
+      year: Aug. 2023 - May 2025
+    - title: Lead Teaching Assistant, Introduction to Sociology
+      institution: Department of Sociology, University of Toronto
+      year: Sep. 2019 - Apr. 2024
+    - title: Sessional Instructor
+      institution: Department of Sociology, University of Victoria
+      year: Sep. 2023 - Dec. 2023
+    - title: Course Instructor
+      institution: Department of Sociology, University of Toronto
+      year: Jan. 2023 - Apr. 2023
+    - title: Senior Research Assistant, Borders in Globalization
+      institution: Centre for Global Studies, University of Victoria
+      year: Aug. 2021 - Aug. 2023
+    - title: Database Manager, Jean Monnet Network Project
+      institution: Centre for Global Studies, University of Victoria
+      year: Aug. 2021 - Aug. 2023
+    - title: Teaching Assistant
+      institution: Department of Sociology, University of Toronto
+      year: Sep. 2017 - Aug. 2023
+    - title: Coordinator & Research Assistant
+      institution: Social Science Methods Week, University of Toronto
+      year: Jan. 2022 - Apr. 2022
+    - title: Coordinator & Research Assistant
+      institution: Social Science Methods Week, University of Toronto
+      year: Jan. 2021 - Apr. 2021
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Honors and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2025
+      items:
+        - SSHRC Insight Development Grant, “Constellation of Truths - Mapping (Un)civil Society’s Knowledge Production in Diverse Border Regions” (Co-Applicant). Funded at $74,955 for two years.
+        - Canadian Sociological Association Outstanding Graduate Award (Ph.D.), University of Toronto.
+        - Association of Borderland Studies Annual Conference Grant (reviewed). Awarded 250 USD.
+    - year: 2024
+      items:
+        - European Community Students Association - Canada Conference Grant (reviewed). Awarded 600 CAD.
+    - year: 2021
+      items:
+        - SSHRC Doctoral Fellowship, held at the University of Toronto. Funded at 40,000 CAD over two years.
+        - Centre for Global Studies Visiting Graduate Student Fellowship, held at the University of Victoria. Funded at 5000 CAD.
+    - year: 2020
+      items:
+        - Ontario Graduate Scholarship, held at the University of Toronto. Awarded 15,000 CAD.
+    - year: 2019
+      items:
+        - Ontario Graduate Scholarship, held at the University of Toronto. Awarded 15,000 CAD.
+        - Canadian Sociological Association Outstanding Graduate Award (M.A.), University of Toronto.
+    - year: 2018
+      items:
+        - S.D. Clark Fellowship, University of Toronto. Awarded 2,000 CAD.
+    - year: 2017
+      items:
+        - Ontario Graduate Scholarship, held at the University of Toronto. Awarded 15,000 CAD.
 
-- title: Honors and Awards
+- title: Professional Service and Training
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Public Facing Research Output.
+      description:
+        - title: Perceived racial and cultural discrimination and sense of belonging in Canadian Society, presented on <a href="https://www.crstalradio.com/podcasts/episode-42 ">Crstal Radio, the official podcast of the CSA, episode 4.2</a>
+          year: July 2021
+        - title: <a href="https://biglobalization.org/wp-content/uploads/2024/12/Borders-in-Globalization-Database-Codebook_2024.pdf">The BIG Dyads Database Codebook</a>. Co-authored by Maria Sigridur Finnsdottir, Kasra Ghorbaninejad, Benjamin Perrier, Shoukia Van Beek, Jules Soupault, Halina Sapeha, and Emmanuel Brunet-Jailly.
+    - title: Editorial Contributions
+      description:
+        - title: “Far-right populism in Canada and abroad.” Special issue in progress with the Canadian Review of Sociology. Maria Sigridur Finnsdottir, Michelle Maroto and David Pettinicchio (eds.).
+          year: Expected 2026
+        - title: “Borders, Politics, and Databases - Using Data to Power Border Studies.” Special issue in preparation for Alternatives Global, Local, Political. Emmanuel Brunet-Jailly, Maria Sigridur Finnsdottir, and Halina Sapeha (eds.).
+          year: Expected 2026
+        - title: “Fake News, Disinformation and Post-Truth Politics - Comparing the European Union and other Western Democracies.” Research topic in progress with Frontiers in Political Science. Maria Sigridur Finnsdottir, Emmanuel Brunet-Jailly, Helga Kristin Hallgrimsdottir, and Edwin Hodge (eds.).
+          year: Expected 2025
+    - title: Peer-Reviewing
+      description:
+        - title: Scandinavian Studies
+          year: 2025
+        - title: Political Research Exchange
+          year: 2025
+        - title: Politics, Religion & Society
+          year: 2024
+        - title: European Union Politics
+          year: 2023
+    - title: Professional Service
+      description:
+        - title: Member, HSS Leads National Team, Digital Research Alliance of Canada
+          year: June 2025 - Ongoing
+        - title: UTGSU Representative, Graduate Sociology Students’ Association
+          year: Sep. 2021 - Aug. 2022
+        - title: Co-Social Coordinator, Graduate Sociology Students’ Association
+          year: Sep. 2019 - Aug. 2020
+        - title: Vice-President & Treasurer, Graduate Sociology Students’ Association
+          year: Sep. 2018 - Aug. 2019
+        - title: Co-M.A. Representative, Graduate Sociology Students’ Association
+          year: Sep. 2017 - Aug. 2018
+    - title: Conference and Workshop Organization
+      description:
+        - title: Co-organizer, "Constellation of Truths - Towards a conceptualization of borders, (un)civil society, and contentious politics.” Hosted at the University of Victoria, by the Borders in Globalization Lab."
+          year: Apr. 2025
+        - title: Co-organizer, "Borders, politics, and databases - Using data to power border studies." Hosted in Strasbourg, France by the Jean Monnet Network Project.
+          year: June 2024
+    - title: Professional training.
+      description:
+        - title: Course on Research Ethics, TCPS 2 Core 2022, Canada Research Tri-Council
+          year: 2024
+        - title: Seminar in Teaching, Department of Sociology, University of Toronto
+          year: 2023
+        - title: Teaching Fundamentals Certificate, Teaching Assistants' Training Program, University of Toronto
+          year: 2024
 
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Advanced Research Computing
+    - title: Computational Social Science
+    - title: Political Sociology
+    - title: Gender in Politics
+    - title: Research Methods
+    - title: Far-Right Politics and Populism
