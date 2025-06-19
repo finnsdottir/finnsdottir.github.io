@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://finnsdottir.github.io/al-folio/sitemap.xml
+Sitemap: https://finnsdottir.github.io/sitemap.xml
