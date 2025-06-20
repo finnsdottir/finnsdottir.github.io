@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "position": "Scientist",
+    "name": "María Sigríður Finnsdóttir",
+    "position": "Humanities and Social Sciences Specialist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "finnsdot@ualberta.ca",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "",
+    "summary": "Sociologist working in Digital Research Services at the University of Alberta to support research computing in the Humanities and Social Sciences",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Edmonton",
       "countryCode": "CA",
       "region": "Alberta"
     },
