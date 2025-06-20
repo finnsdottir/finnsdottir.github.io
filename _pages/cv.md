@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 1
 cv_pdf: Finnsdottir_CV.pdf
-description: 
+description:
 toc:
   sidebar: left
 ---
