@@ -14,7 +14,7 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Books</h3>
       {% for item in site.data.publications.books %}
         <p>{{ item.author }}<a href="{{ item.url }}">{{ item.name }}</a>{{ item.citation }}</p>
-      <p></p>
+      <br>
       {% endfor %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Other publications and output</h3>
       {% for item in site.data.publications.other %}
