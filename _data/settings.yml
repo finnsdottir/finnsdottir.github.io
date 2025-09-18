@@ -5,7 +5,8 @@ menu:
 - {name: 'cv', url: '/cv'}
 
 projects:
-- {name: 'Far-right populism in Canada and Abroad', description: 'A special issue in the Canadian Review of Sociology', image: 'assets/img/crs_page.jpeg', url: 'populism'}
+- {name: 'Far-right populism in Canada and Abroad', description: 'A special issue in the Canadian Review of Sociology. Still accepting submissions.', image: 'assets/img/crs_page.jpeg', url: 'populism'}
+- 
 
 social:
 - {icon: 'github', link: 'https://github.com/finnsdottir'}

@@ -1,0 +1,9 @@
+index:
+- {name: 'Class and Social Inequality ', url: './courses/syllabi/SOCI215_syllabus.pdf', institution: '(University of Victoria)'}
+- {name: 'Special Topics in Sociology: Democratic Decline, Citizenship, and Gender ', url: './courses/syllabi/SOCI438_Syllabus_Draft.pdf', institution: '(University of Victoria)'}
+- {name: 'Social Movements', url: './courses/syllabi/SOC360H1S_Syllabus.pdf', institution: '(University of Toronto)'}
+- {name: 'Comparative Political Sociology', url: './courses/syllabi/SOC340H1S_Syllabus.pdf', institution: '(University of Toronto)'}
+
+workshop:
+- {name: 'Introduction to OpenRefine', url: 'https://finnsdottir.github.io/openrefine_fall2025/'}
+- {name: 'Introduction to R & RStudio', url: 'https://finnsdottir.github.io/intro_r_fall2025/'}
