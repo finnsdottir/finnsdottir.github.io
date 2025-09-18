@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Populism in Canada"
+title: "Far-right populism in Canada and abroad"
 ---
 
 The contemporary political era is arguably characterized by a resurgence of far-right, nationalist, and populist politics. The re-election of Donald Trump in the USA is but the most recent reminder of the political appeal of far-right populism – far-right populist politicians and political parties have also been successful in France, Italy, India, Brazil, and beyond. 
