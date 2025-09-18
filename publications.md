@@ -9,7 +9,6 @@ title: "Publications"
 - Finnsdottir, Maria Sigridur. 2023. ["The Rassemblement National online: Investigating the politics of gender and racism of the radical right on social media."](https://www.tandfonline.com/doi/abs/10.1080/10304312.2023.2296342) Continuum 38(4): 502-516. 
 
 - Finnsdottir, Maria Sigridur. 2022. [“Radical women? Explaining the gender gap in radical right voting in the Nordic countries.”](https://bristoluniversitypressdigital.com/view/journals/ejpg/5/3/article-p341.xml?rskey=yqeiQx&result=2) European Journal of Politics and Gender 5(3): 341-360. 
-    - <i>Selected for the 2023 Editors’ Choice Collection.</i>
 
 - Wu, Zheng and Maria Finnsdottir. 2021. [“Perceived racial and cultural discrimination and sense of belonging in Canadian Society.”](https://onlinelibrary.wiley.com/doi/10.1111/cars.12339) Canadian Review of Sociology 58(2): 229-249. 
 

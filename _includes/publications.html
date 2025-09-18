@@ -1,5 +1,6 @@
 <div class="row g-5 mb-5">
   <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Peer-reviwed publications</h3>
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <p>{{ item.author }}<a href="{{ item.url }}">{{ item.name }}</a>{{ item.citation }}</p>
@@ -9,5 +10,11 @@
         <p>{{ item.author }}<a href="{{ item.url }}">{{ item.name }}</a>{{ item.citation }}</p>
       {% endfor %}
     {% endif %}
+  </div>
+    <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Books</h3>
+      {% for item in site.data.publications.books %}
+        <p>{{ item.author }}<a href="{{ item.url }}">{{ item.name }}</a>{{ item.citation }}</p>
+      {% endfor %}
   </div>
 </div>
