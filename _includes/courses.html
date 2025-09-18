@@ -3,13 +3,11 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Undergraduate courses</h3>
       {% for item in site.data.courses.index %}
         <p><a href="{{ item.url }}">{{ item.name }}</a>{{ item.institution}}</p>
-      <p></p>
-      <br>
       {% endfor %}
+    <br>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Workshops</h3>
       {% for item in site.data.courses.workshop  %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      <br>
       {% endfor %}
     </div>
 </div>
