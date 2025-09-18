@@ -52,5 +52,15 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Selected Awards</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.awards %}
+          <p>{{ section.title }}</p>
+        {% endfor %}
+      </div>
+    </div>
   </div>
 </div>
