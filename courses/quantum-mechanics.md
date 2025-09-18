@@ -32,3 +32,20 @@ title: "Quantum Mechanics"
 #### Exams
 
 [Exam 1](/courses/quantum-mechanics/Sample_Exam.pdf)
+
+
+code for reading through courses
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Courses</h3>
+    {% for course in site.data.settings.courses %}
+      <p><a href="{{ site.github.url }}/courses/{{ course.url}}">{{ course.name }}</a></p>
+    {% endfor %}
+  </div>
+</div>
+
+and in the settings page: 
+courses:
+- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Stellar Structures', url: 'stellar-structures'}

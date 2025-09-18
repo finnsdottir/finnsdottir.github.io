@@ -1,16 +1,11 @@
 menu:
-- {name: 'projects', url: '/people'}
+- {name: 'projects', url: '/projects'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 
 projects:
 - {name: 'Far-right populism in Canada and Abroad', description: 'A special issue in the Canadian Review of Sociology', image: 'assets/img/crs_page.jpeg', url: 'populism'}
-
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 - {icon: 'github', link: 'https://github.com/finnsdottir'}
