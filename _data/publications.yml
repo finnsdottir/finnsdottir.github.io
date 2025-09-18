@@ -9,3 +9,6 @@ index:
 
 books:
 - {author: 'Tepperman, Lorne and Maria Finnsdottir. 2021.  ', name: "Canada's Place: A Global Perspective", url: 'https://www.rocksmillspress.com/canada-s-place.html', citation: 'Oakville, ON: Rocks Mills Press'}
+
+other:
+- {author: 'Finnsdottir, Maria Sigridur, Kasra Ghorbaninejad, Benjamin Perrier, Shoukia Van Beek, Jules Soupault, Halina Sapeha, and Emmanuel Brunet-Jailly. 2024.', name: 'BIG Dyads Codebook', url: 'https://biglobalization.org/wp-content/uploads/2024/12/Borders-in-Globalization-Database-Codebook_2024.pdf', citation: 'Borders in Globalization'}
