@@ -1,23 +1,26 @@
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Peer-reviwed publications</h3>
     {% if page.title == "Home" %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
       {% for item in site.data.publications.featured %}
         <p>{{ item.author }}<a href="{{ item.url }}">{{ item.name }}</a>{{ item.citation }}</p>
       {% endfor %}
     {% else %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Peer-reviewed publications</h3>
       {% for item in site.data.publications.index %}
         <p>{{ item.author }}<a href="{{ item.url }}">{{ item.name }}</a>{{ item.citation }}</p>
+      <p></p>
       {% endfor %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Books</h3>
       {% for item in site.data.publications.books %}
         <p>{{ item.author }}<a href="{{ item.url }}">{{ item.name }}</a>{{ item.citation }}</p>
+      <p></p>
       {% endfor %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Other publications and output</h3>
       {% for item in site.data.publications.other %}
         <p>{{ item.author }}<a href="{{ item.url }}">{{ item.name }}</a>{{ item.citation }}</p>
+      <p></p>
       {% endfor %}
-
     {% endif %}
     </div>
 </div>
