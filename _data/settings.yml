@@ -10,9 +10,8 @@ projects:
 
 social:
 - {icon: 'fab fa-github', link: 'https://github.com/finnsdottir'}
-- {icon: 'fab fa-bluesky', link: 'https://bsky.app/profile/msfinnsd.bsky.social'}
 - {icon: 'fab fa-orcid', link: 'https://orcid.org/0000-0002-1109-8678'}
-- {icon: 'fas fa-google-scholar', link: 'https://scholar.google.com/citations?user=-OyNxLQAAAAJ&hl=en'}
+- {icon: 'fab fa-google-scholar', link: 'https://scholar.google.com/citations?user=-OyNxLQAAAAJ&hl=en'}
 
 contacts:
 - {name: 'Dr. Maria Sigridur Finnsdottir', title: 'Humanities & Social Sciences Specialist', department: 'Digital Research Services-IST', institution: 'University of Alberta', email: 'finnsdot@ualberta.ca', image: 'assets/img/profilepic.jpeg'}
