@@ -5,7 +5,7 @@ menu:
 - {name: 'cv', url: '/cv'}
 
 projects:
-- {name: 'Constellation of Truths', description: 'A SSHRC IDG funded project investigating epistemic struggles in contentious border regions.', image: 'assets/img/constellations.jpg', url: 'https://finnsdottir.github.io/constellation-truths/'}
+- {name: 'Constellation of Truths', description: 'A SSHRC IDG funded project investigating epistemic struggles in contentious border regions.', image: 'assets/img/constellations.jpg', url: 'https://cotruths.ca'}
 - {name: 'Far-right populism in Canada and Abroad', description: 'A special issue in the Canadian Review of Sociology. Still accepting submissions.', image: 'assets/img/crs_page.jpeg', url: './projects/populism'}
 
 social:
